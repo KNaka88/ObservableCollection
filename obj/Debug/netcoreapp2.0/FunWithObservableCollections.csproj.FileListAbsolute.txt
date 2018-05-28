@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/bin/Debug/netcoreapp2.0/FunWithObservableCollections.deps.json
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/bin/Debug/netcoreapp2.0/FunWithObservableCollections.runtimeconfig.json
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/bin/Debug/netcoreapp2.0/FunWithObservableCollections.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/bin/Debug/netcoreapp2.0/FunWithObservableCollections.dll
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/bin/Debug/netcoreapp2.0/FunWithObservableCollections.pdb
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/obj/Debug/netcoreapp2.0/FunWithObservableCollections.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/obj/Debug/netcoreapp2.0/FunWithObservableCollections.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/obj/Debug/netcoreapp2.0/FunWithObservableCollections.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/obj/Debug/netcoreapp2.0/FunWithObservableCollections.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/obj/Debug/netcoreapp2.0/FunWithObservableCollections.dll
+/Users/koji/Repositories/Csharp/FunWithObservableCollections/obj/Debug/netcoreapp2.0/FunWithObservableCollections.pdb
